@@ -2,3 +2,9 @@ DAY_1      -create new project
            -install django 
            -create Main Project
 ---------------------------------
+DAY_2    -create app
+         - connect bootstrab 
+         -add material image
+         -create index and base html file 
+         - add navbare ,footer, slide
+---------------------------------
